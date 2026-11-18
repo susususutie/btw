@@ -1,6 +1,6 @@
 {
   "name": "@mensa/btw",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "OpenCode TUI plugin: keeps every /btw side question in a sidebar list you can reopen anytime",
   "type": "module",
   "license": "MIT",
