@@ -1,0 +1,31 @@
+{
+  "name": "@mensa/btw",
+  "version": "0.0.1",
+  "description": "OpenCode TUI plugin: keeps every /btw side question in a sidebar list you can reopen anytime",
+  "type": "module",
+  "exports": {
+    "./tui": "./tui.tsx"
+  },
+  "files": [
+    "tui.tsx",
+    "syntax.ts",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susususutie/btw.git"
+  },
+  "homepage": "https://github.com/susususutie/btw#readme",
+  "bugs": {
+    "url": "https://github.com/susususutie/btw/issues"
+  },
+  "dependencies": {
+    "@opencode/plugin": "^2.3.0",
+    "@opentui/core": "^0.8.4",
+    "@opentui/solid": "^0.8.4",
+    "solid-js": "^1.9.17"
+  }
+}
