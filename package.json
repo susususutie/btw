@@ -3,6 +3,14 @@
   "version": "0.0.1",
   "description": "OpenCode TUI plugin: keeps every /btw side question in a sidebar list you can reopen anytime",
   "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "tui",
+    "btw"
+  ],
+  "packageManager": "bun@1.4.4",
   "exports": {
     "./tui": "./tui.tsx"
   },
@@ -22,8 +30,19 @@
   "bugs": {
     "url": "https://github.com/susususutie/btw/issues"
   },
+  "scripts": {
+    "typecheck": "bun check --no-script",
+    "prepublishOnly": "bun run typecheck"
+  },
   "dependencies": {
-    "@opencode/plugin": "^2.3.0",
+    "@opencode/plugin": "^2.3.0"
+  },
+  "peerDependencies": {
+    "@opentui/core": ">=0.8.4",
+    "@opentui/solid": ">=0.8.4",
+    "solid-js": ">=1.9.0"
+  },
+  "devDependencies": {
     "@opentui/core": "^0.8.4",
     "@opentui/solid": "^0.8.4",
     "solid-js": "^1.9.17"
