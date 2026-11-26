@@ -4,7 +4,7 @@
 
 A seamless upgrade to OpenCode's built-in `/btw`: same usage as the built-in command. It adds only two things: **persistent history** and a **sidebar list**.
 
-![Demo](https://raw.githubusercontent.com/susususutie/btw/main/docs/demo.gif?v=2)
+![Demo](https://raw.githubusercontent.com/susususutie/btw/main/docs/demo-light.gif)
 
 ## Install
 

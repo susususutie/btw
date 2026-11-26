@@ -4,7 +4,7 @@
 
 内置 `/btw` 的无缝增强：使用方式和内置命令完全一致；只新增两样东西——**历史记录** 和 **侧边栏展示**。
 
-![演示](https://raw.githubusercontent.com/susususutie/btw/main/docs/demo.gif?v=2)
+![演示](https://raw.githubusercontent.com/susususutie/btw/main/docs/demo-light.gif)
 
 ## 安装
 
