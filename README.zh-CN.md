@@ -1,10 +1,10 @@
 # @mensa/btw
 
-[English](https://github.com/susususutie/btw/blob/main/README.md) | [简体中文](README.zh-CN.md)
+[English](https://github.com/susususutie/btw/blob/main/README.md) | [简体中文](https://github.com/susususutie/btw/blob/main/README.zh-CN.md)
 
 内置 `/btw` 的无缝增强：使用方式和内置命令完全一致；只新增两样东西——**历史记录** 和 **侧边栏展示**。
 
-![演示](https://raw.githubusercontent.com/susususutie/btw/main/docs/demo.gif)
+![演示](https://raw.githubusercontent.com/susususutie/btw/main/docs/demo.gif?v=2)
 
 ## 安装
 
