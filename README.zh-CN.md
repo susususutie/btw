@@ -2,7 +2,7 @@
 
 [English](https://github.com/susususutie/btw/blob/main/README.md) | [简体中文](https://github.com/susususutie/btw/blob/main/README.zh-CN.md)
 
-内置 `/btw` 的无缝增强：使用方式和内置命令完全一致；只新增两样东西——**历史记录** 和 **侧边栏展示**。
+内置 `/btw` 的无缝增强：使用方式和内置命令完全一致，**不修改 OpenCode 内核**；只新增两样东西——**历史记录** 和 **侧边栏展示**。
 
 ![演示](https://raw.githubusercontent.com/susususutie/btw/main/docs/demo-light.gif)
 
@@ -28,4 +28,4 @@ opencode plugin add @mensa/btw
 - 点击任意一行重新打开答案；`/btws` 可过滤历史。
 - 历史持久化，重启 TUI、多开窗口都不丢。
 
-不修改 OpenCode 内核；`/btw` 的提问、提示词和答案弹窗与内置版完全一致。
+`/btw` 的提问、提示词和答案弹窗与内置版完全一致。

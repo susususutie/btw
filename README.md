@@ -2,7 +2,7 @@
 
 [English](https://github.com/susususutie/btw/blob/main/README.md) | [简体中文](https://github.com/susususutie/btw/blob/main/README.zh-CN.md)
 
-A seamless upgrade to OpenCode's built-in `/btw`: same usage as the built-in command. It adds only two things: **persistent history** and a **sidebar list**.
+A seamless upgrade to OpenCode's built-in `/btw`: same usage as the built-in command, **no core changes**. It adds only two things: **persistent history** and a **sidebar list**.
 
 ![Demo](https://raw.githubusercontent.com/susususutie/btw/main/docs/demo-light.gif)
 
@@ -28,4 +28,4 @@ Restart the TUI. OpenCode V2 only.
 - Click a row to reopen the answer; `/btws` filters the history.
 - History survives TUI restarts and multiple windows.
 
-No OpenCode core changes. The `/btw` prompt and answer dialog are exactly the same as the built-in version.
+The `/btw` prompt and answer dialog are exactly the same as the built-in version.
